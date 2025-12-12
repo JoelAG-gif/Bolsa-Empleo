@@ -1,19 +1,19 @@
-# 💼 AESI - Bolsa de Empleo (UI/UX)
+# 💼 AESI - Bolsa de Empleo Inclusiva (UI/UX)
 
-> **Diseño de Interfaz** para una plataforma de reclutamiento que conecta talento con empresas.
+> **Diseño de Interfaz** para una plataforma de reclutamiento enfocada en la inclusión laboral, conectando talento diverso con oportunidades equitativas.
 
 ![Figma](https://img.shields.io/badge/Figma-Design_System-F24E1E?style=for-the-badge&logo=figma)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Prototyping-000000?style=for-the-badge)
 
 ## 📖 Descripción
-Plataforma dual diseñada para facilitar el proceso de contratación:
-1.  **Candidatos:** Búsqueda de ofertas, gestión de perfil y seguimiento de postulaciones.
-2.  **Administradores/Reclutadores:** Publicación de vacantes y filtrado de postulantes.
+Plataforma diseñada para facilitar la inserción laboral sin barreras. El sistema gestiona dos roles clave:
+1.  **Candidatos:** Registro accesible, creación de perfil profesional inclusivo y postulación simplificada.
+2.  **Empresas Inclusivas:** Publicación de ofertas, filtrado de talento y gestión de procesos de selección.
 
 ## 📸 Galería del Diseño
 
 ### 1. Portal del Candidato
-Experiencia de usuario fluida para encontrar trabajo.
+Experiencia de usuario amigable y accesible para la búsqueda de empleo.
 
 | Inicio / Landing | Login | Perfil (Mi Cuenta) |
 |:---:|:---:|:---:|
@@ -24,7 +24,7 @@ Experiencia de usuario fluida para encontrar trabajo.
 | ![Detalle](assets/ver%20empleo.png) | ![Postulaciones](assets/mis%20postulaciones.png) |
 
 ### 2. Portal del Administrador
-Herramientas de gestión para reclutadores.
+Herramientas de gestión para reclutadores comprometidos con la diversidad.
 
 | Crear Oferta | Ver Ofertas | Ver Postulante |
 |:---:|:---:|:---:|
